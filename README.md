@@ -7,4 +7,4 @@
 
 2、[敏捷专题课](https://gitee.com/PM_YangTZ/project-management/blob/master/%E6%95%8F%E6%8D%B7%E4%B8%93%E9%A2%98/%E6%95%8F%E6%8D%B7%E4%B8%93%E9%A2%98%E8%AF%BEV1.0.md) 	2022-04-13
 
-3、[PMP导学课](https://gitee.com/PM_YangTZ/project-management/blob/master/%E5%AF%BC%E5%AD%A6%E8%AF%BE/PMP%E5%AF%BC%E5%AD%A6%E8%AF%BE.md)	2022-04-13
+3、[PMP导学课](https://gitee.com/PM_YangTZ/project-management/blob/master/%E5%AF%BC%E5%AD%A6%E8%AF%BE/PMP%E5%AF%BC%E5%AD%A6%E8%AF%BE.md)	2022-05-09
